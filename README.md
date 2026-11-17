@@ -1,4 +1,4 @@
-# Beyond the Equation — v1.0
+# UnfoldQuantum — v1.0
 Provisional brand: From Intuition to Innovation.
 
 ## Open offline
